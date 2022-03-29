@@ -1,0 +1,4 @@
+0:say,father,answer,son,ulysses,come,shall,man,home,house
+1:project,work,odyssey,gutenberg,copy,electronic,line,term,foundation,license
+2:ship,sea,wind,water,sail,land,shore,wave,rock,day
+3:wine,drink,hand,make,head,cloak,round,eat,meat,shoulder
